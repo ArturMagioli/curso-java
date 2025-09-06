@@ -2,11 +2,9 @@ package secao18.aula198.application;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 
 import secao18.aula193.entities.Product;
-import secao18.aula198.util.UpperCaseName;
 
 public class Program {
     
