@@ -1,10 +1,10 @@
-package secao18.aula200.Program;
+package secao18.aula200.application;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class application {
+public class Program {
     
     public static void main(String[] args) {
         
